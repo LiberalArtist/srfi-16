@@ -6,6 +6,8 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=pattern-matching][Pattern Matching]]
 
+library-name: case-lambda
+
 This repository hosts [[https://srfi.schemers.org/srfi-16/][SRFI 16]]: Syntax for procedures of variable arity, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
